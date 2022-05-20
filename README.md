@@ -1,7 +1,7 @@
                                            Hi 👋, I’m @sujata
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently advancing in data science.
-- 💞️ I’m looking to utilize my skills and experiences in a role that allows me to professionally grow and develop my career.
+- 🌱 I’m currently advancing in data science
+- 💞️ I’m looking to utilize my skills and experiences in a role that allows me to professionally grow and develop my career
 - 📫 How to reach me: sujatasah94@gmail.com
 - 
 
