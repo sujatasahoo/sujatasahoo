@@ -7,7 +7,7 @@
 
 - 🛠 Tech Skills: 💻 Data analysis, Predictive Analytics, Machine Learning, Neural Network, Python
 
-🔭 Aspire to learn: ✍️ More about Natural Language processing.
+- 🔭 Aspire to learn: ✍️ More about Natural Language processing.
 
 - 📫 How to reach me: sujatasah94@gmail.com
 
