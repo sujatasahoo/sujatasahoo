@@ -18,4 +18,4 @@ Linkedin:https://www.linkedin.com/in/sujatasahoo3/
 sujatasahoo/sujatasahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Languages and Tools:
+Languages and Tools:![image](https://user-images.githubusercontent.com/95310008/179843265-24726139-de9d-49b6-9fed-67b4d3235bfc.png)
