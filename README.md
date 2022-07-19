@@ -19,3 +19,7 @@ sujatasahoo/sujatasahoo is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Languages and Tools:![image](https://user-images.githubusercontent.com/95310008/179843265-24726139-de9d-49b6-9fed-67b4d3235bfc.png)
+https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg
+https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg
+![image](https://user-images.githubusercontent.com/95310008/179844459-844be3dc-8478-453a-8f28-045ecdf45f17.png)
+
