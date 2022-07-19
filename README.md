@@ -19,6 +19,5 @@ sujatasahoo/sujatasahoo is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Languages and Tools:![image](https://user-images.githubusercontent.com/95310008/179843265-24726139-de9d-49b6-9fed-67b4d3235bfc.png)
-[
-
+![image](https://user-images.githubusercontent.com/95310008/179845007-1f9fc990-181b-4c92-9ac5-c9503cf87890.png)
 
